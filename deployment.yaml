@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: playground
-        image: hdameur12/iot-app:v1
+        image: hdameur12/iot-app:v2
         ports:
         - containerPort: 8888
         resources:
